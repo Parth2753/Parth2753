@@ -39,12 +39,23 @@ To become an **AI Developer** 🤖 and a **Full Stack Web Developer** 🌐 in th
 </p>
 
 ---
+### 📊 GitHub Stats  
 
-### 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParthRohilla&show_icons=true&theme=tokyonight" alt="Parth's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthRohilla&theme=tokyonight" />
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="80%">
+      <a href="https://github.com/Parth2753">
+        <img src="https://github-readme-stats.vercel.app/api?username=Parth2753&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C7FF&text_color=C9D1D9&icon_color=00C7FF&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="165"/>
+      </a>
+    </td>
+    <td align="center" width="70%">
+      <a href="https://github.com/Parth2753">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Parth2753&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=00C7FF&ring=00C7FF&fire=00C7FF&currStreakLabel=00C7FF" alt="GitHub Streak" height="165"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ### 📈 Contribution Graph  
 <div align="center">  
