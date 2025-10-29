@@ -46,6 +46,19 @@ To become an **AI Developer** 🤖 and a **Full Stack Web Developer** 🌐 in th
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthRohilla&theme=tokyonight" />
 </div>
 
+### 📈 Contribution Graph  
+<div align="center">  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth2753&bg_color=0D1117&color=00FFEA&line=00FFEA&point=FFFFFF&area=true&hide_border=true" alt="Parth’s Contribution Graph" />  
+</div>
+
+### 🏆 <span style="color:#FFB800;">Longest Contribution Streak</span>
+
+<div align="center">
+
+<h3 style="color:#00FFFF;">⏳ Longest Streak: <span style="color:#FFD700;">23 Days</span></h3>  
+<h4 style="color:#FF69B4;">📅 From: <span style="color:#00FF7F;">August 10, 2025</span> → <span style="color:#00FF7F;">September 2, 2025</span></h4>
+</div>
+
 ---
 
 ### 🌐 Connect With Me
