@@ -28,7 +28,7 @@ To become an **AI Developer** 🤖 and a **Full Stack Web Developer** 🌐 in th
 
 ### 🎯 Interests
 - Artificial Intelligence & Machine Learning (AIML)  
-- Problem Solving & Programming (Java, Python, C++, C)  
+- Problem Solving & Programming (Java, Python, C++, C etc)  
 - Software & Web Development  
 
 ---
