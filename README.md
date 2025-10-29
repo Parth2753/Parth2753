@@ -33,9 +33,26 @@ To become an **AI Developer** 🤖 and a **Full Stack Web Developer** 🌐 in th
 
 ---
 
-### 🛠️ Tech Stack
+🧠 Currently Learning & Working On</h2>
+<p align="left">
+  <pre align="left">
+Languages:
+  - Java (Core & OOP)
+  - Python (Automation & Problem Solving)
+  - Git & GitHub
+  - Competitive Programming (GeeksForGeeks, HackerRank)
+  </pre>
+</p>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,js,react,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,git,github,vscode,codechef,hackerrank" />
+</p>
+
+🏆 Achievements & Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Parth2753&theme=radical&no-frame=true&margin-w=10&row=1&column=6&title=Commit,Repositories,Followers,Contributions,Stars,PullRequest" />
 </p>
 
 --- 
