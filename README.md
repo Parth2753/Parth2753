@@ -41,10 +41,10 @@ To become an **AI Developer** 🤖 and a **Full Stack Web Developer** 🌐 in th
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Parth2753&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth2753&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParthRohilla&show_icons=true&theme=tokyonight" alt="Parth's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ParthRohilla&theme=tokyonight" />
+</div>
 
 ---
 
