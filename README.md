@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello Everyone, I'm Parth Rohilla</h1>
+<h1 align="center"> 👋Hello Everyone, I'm Parth Rohilla</h1>
 <h3 align="center">🚀 AI Enthusiast | 💻 Full Stack Developer in Progress | 🎓 B.Tech CSM(AIML)</h3>
 
 ---
