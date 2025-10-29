@@ -38,24 +38,22 @@ To become an **AI Developer** 🤖 and a **Full Stack Web Developer** 🌐 in th
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,html,css,js,react,nodejs,git,github" />
 </p>
 
----
-### 📊 GitHub Stats  
-
-<table align="center">
+--- 
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="80%">
-      <a href="https://github.com/Parth2753">
-        <img src="https://github-readme-stats.vercel.app/api?username=Parth2753&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C7FF&text_color=C9D1D9&icon_color=00C7FF&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="165"/>
-      </a>
+    <td align="center" width="50%">
+      <!-- Total Commits Badge -->
+      <h3> 📊 Total Commits</h3>
+      <img src="https://img.shields.io/badge/Total_Commits-450-00C7FF?style=for-the-badge&logo=github" alt="Total Commits Badge" />
     </td>
     <td align="center" width="70%">
+      <!-- GitHub Stats Card -->
       <a href="https://github.com/Parth2753">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Parth2753&theme=tokyonight_duo&hide_border=true&background=0D1117&stroke=00C7FF&ring=00C7FF&fire=00C7FF&currStreakLabel=00C7FF" alt="GitHub Streak" height="165"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=Parth2753&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C7FF&text_color=C9D1D9&icon_color=00C7FF&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="220"/>
       </a>
     </td>
   </tr>
 </table>
-
 
 ### 📈 Contribution Graph  
 <div align="center">  
