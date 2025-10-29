@@ -68,6 +68,11 @@ To become an **AI Developer** 🤖 and a **Full Stack Web Developer** 🌐 in th
 <h4 style="color:#FF69B4;">📅 From: <span style="color:#00FF7F;">August 10, 2025</span> → <span style="color:#00FF7F;">September 2, 2025</span></h4>
 </div>
 
+### 🧠 Most Used Languages
+<a href="https://github.com/Parth2753">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth2753&layout=compact&theme=radical" />
+</a>
+
 ---
 
 ### 🌐 Connect With Me
