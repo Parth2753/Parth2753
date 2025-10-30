@@ -65,9 +65,21 @@ Languages:
     </td>
     <td align="center" width="70%">
       <!-- GitHub Stats Card -->
-      <a href="https://github.com/Parth2753">
-        <img src="https://github-readme-stats.vercel.app/api?username=Parth2753&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C7FF&text_color=C9D1D9&icon_color=00C7FF&include_all_commits=true&rank_icon=github" alt="GitHub Stats" height="220"/>
-      </a>
+      <a 
+    href="https://github.com/Parth2753" 
+    target="_blank" 
+    rel="noopener noreferrer" 
+>
+    <img 
+        src="https://github-readme-stats.vercel.app/api?username=Parth2753&show_icons=true&theme=monokai" 
+        alt="GitHub Stats (Monokai Theme)"
+      .stats-container {
+    max-width: 800px; /* INCREASED SIZE HERE to 800px */
+    width: 100%;
+    /* ... rest of styles ... */
+}
+    />
+</a>
     </td>
   </tr>
 </table>
