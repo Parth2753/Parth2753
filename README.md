@@ -23,6 +23,7 @@ To become an **AI Developer** 🤖 and a **Full Stack Web Developer** 🌐 in th
 - 🧠 Programming Languages: **Java**, **Python**, **C**, and more  
 - 🛠️ Working on small projects to enhance my **development skills** and **hands-on experience**  
 - 💬 Open to collaborating on **mini-projects** and networking with **tech experts**
+- 🔥 Will start with frontend web development very soon(deep learning and the logic behind each and every code in frontend)
 
 ---
 
