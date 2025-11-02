@@ -8,7 +8,7 @@ I'm **Parth Rohilla**, currently pursuing my **B.Tech 1st Year** in **Computer S
 I’m passionate about solving **complex problems**, building **cool projects**, and constantly learning something new every day.
 
 💡 I actively solve coding challenges on:
-- 🏅 **HackerRank** (Silver Badge in Java)  
+- 🏅 **HackerRank** (Silver Badge in Java and Bronze Badge in Python)  
 - ⚙️ **GeeksforGeeks**  
 - 🥇 **CodeChef** (1st Rank)
 - ⚙️ **Leetcode**(Will start with it soon)
