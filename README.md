@@ -73,16 +73,12 @@ Languages:
     rel="noopener noreferrer" 
 >
     <img 
-        src="https://github-readme-stats.vercel.app/api?username=Parth2753&show_icons=true&theme=monokai" 
-      ?cache_seconds=60
-        alt="GitHub Stats (Monokai Theme)"
-      ?cache_seconds=60
-      .stats-container {
-    max-width: 800px; /* INCREASED SIZE HERE to 800px */
-    width: 100%;
-    /* ... rest of styles ... */
-}
-    />
+       <div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Parth2753&show_icons=true&theme=monokai&count_private=true&cache_seconds=60&v=3" 
+    alt="GitHub Stats (Monokai Theme)" 
+    style="max-width: 800px; width: 100%;" 
+</div> 
 </a>
     </td>
   </tr>
