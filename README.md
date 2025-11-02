@@ -74,7 +74,9 @@ Languages:
 >
     <img 
         src="https://github-readme-stats.vercel.app/api?username=Parth2753&show_icons=true&theme=monokai" 
+      ?cache_seconds=60
         alt="GitHub Stats (Monokai Theme)"
+      ?cache_seconds=60
       .stats-container {
     max-width: 800px; /* INCREASED SIZE HERE to 800px */
     width: 100%;
