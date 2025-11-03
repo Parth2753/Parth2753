@@ -11,7 +11,7 @@ I’m passionate about solving **complex problems**, building **cool projects**,
 - 🏅 **HackerRank** (Silver Badge in Java and Bronze Badge in Python)  
 - ⚙️ **GeeksforGeeks**  
 - 🥇 **CodeChef** (1st Rank)
-- ⚙️ **Leetcode**(Will start with it soon,did questions but will try to make a streak in the future for sure)
+- ⚙️ **Leetcode**(Will start with it soon)
 
 ---
 
