@@ -63,7 +63,7 @@ Languages:
     <td align="center" width="50%">
       <!-- Total Commits Badge -->
       <h3> 📊 Total Commits</h3>
-      <img src="https://img.shields.io/badge/Total_Commits-71-00C7FF?style=for-the-badge&logo=github" alt="Total Commits Badge" />
+      <img src="https://img.shields.io/badge/Total_Commits-82-00C7FF?style=for-the-badge&logo=github" alt="Total Commits Badge" />
     </td>
     <td align="center" width="70%">
       <!-- GitHub Stats Card -->
