@@ -18,19 +18,18 @@ I’m passionate about solving **complex problems**, building **cool projects**,
 To become an **AI Developer** 🤖 and a **Full Stack Web Developer** 🌐 in the future.
 
 ---
+### ☘️ Currently Learning
+- 🧠 Programming Languages: **Java**, **Python**, **C**, and more  
+- 🛠️ Working on small projects to enhance my **development skills** and **hands-on experience**  
+- 💬 Open to collaborating on **mini-projects** and networking with **tech experts**
+- 🔥 Will start with frontend web development very soon(deep learning and the logic behind each and every code in frontend
+
+---
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,git,github,vscode,codechef,hackerrank" />
 </p>
-
----
-
-### ☘️ Currently Learning
-- 🧠 Programming Languages: **Java**, **Python**, **C**, and more  
-- 🛠️ Working on small projects to enhance my **development skills** and **hands-on experience**  
-- 💬 Open to collaborating on **mini-projects** and networking with **tech experts**
-- 🔥 Will start with frontend web development very soon(deep learning and the logic behind each and every code in frontend)
 
 ---
 
