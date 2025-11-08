@@ -9,7 +9,7 @@ I’m passionate about solving **complex problems**, building **cool projects**,
 
 💡 I actively solve coding challenges on:
 - 🏅 **HackerRank** (Silver Badge in Java and Bronze Badge in Python)  
-- ⚙️ **GeeksforGeeks**  
+- ⚙️ **GeeksforGeeks**
 - ⚙️ **Leetcode**(Will start with it soon)
 
 ---
