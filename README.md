@@ -24,7 +24,6 @@
 <img src="https://img.shields.io/badge/Futuristic%20Coder-0D1117?style=for-the-badge">
 
 <br><br>
-
 🔮 *Crafting intelligent systems with precision and creativity.*  
 🚀 I combine **AI**, **Java Engineering**, and **problem-solving**  
 to build high-performance futuristic applications.  
