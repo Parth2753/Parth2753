@@ -76,7 +76,7 @@ to build high-performance futuristic applications.
 
 ---
 ## 🏆 GitHub Trophies 
-
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Parth2753&theme=dracula&row=1&column=7&margin-w=10)](https://github.com/Parth2753)
 
 ---
 
