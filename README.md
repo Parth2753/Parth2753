@@ -103,7 +103,7 @@ to build high-performance futuristic applications.
 </div>
 
 </div>
---
+
 # 🎓 Certifications — *AI Learning Path*
 
 <div align="center">
@@ -115,6 +115,18 @@ to build high-performance futuristic applications.
 </div>
 
 ---
+
+### 🖥️ Top Languages
+<p align="center">
+  <a href="https://github.com/Parth2753">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth2753&layout=compact&theme=dracula&langs_count=6" alt="Top Languages" />
+  </a>
+</p>
+<p align="center">
+  🤖 These are the languages I code in the most.  
+  ⚡ Always learning, building, and experimenting with AI & tech!
+</p>
+
 
 # 🔗 Connect With Me
 
