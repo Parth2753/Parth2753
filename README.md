@@ -74,7 +74,8 @@ to build high-performance futuristic applications.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma&theme=dark" height="65"/>
 
 ---
-## 🏆 GitHub Trophies 
+## 📊 Github Stats
+![Parth2753's Stats](https://github-readme-stats.vercel.app/api?username=Parth2753&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
@@ -102,7 +103,7 @@ to build high-performance futuristic applications.
 
 </div>
 
-# 🎓 Certifications — *AI Learning Path*
+# 🎓 Certifications — *AI Learning Platforms*
 
 <div align="center">
 
@@ -115,12 +116,10 @@ to build high-performance futuristic applications.
 ---
 
 ### 🖥️ Top Languages
-<p align="center">
-  <a href="https://github.com/Parth2753">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth2753&layout=compact&theme=dracula&langs_count=6" alt="Top Languages" />
-  </a>
-</p>
-<p align="center">
+<p align = "center"
+  
+  ![Parth2753's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth2753&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+  <br>
   🤖 These are the languages I code in the most.  
   ⚡ Always learning, building, and experimenting with AI & tech!
 </p>
