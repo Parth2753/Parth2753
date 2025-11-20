@@ -18,7 +18,6 @@
 
 <!-- ========= ABOUT ME – AI GLOW PANEL ========= -->
 ## 🌐 About Me — *AI Neural Identity Panel*
-
 <div align="center">
 <img src="https://img.shields.io/badge/A.I%20Architect-7F7CFF?style=for-the-badge&logo=nvidia&logoColor=white">
 <img src="https://img.shields.io/badge/Java%20Developer-42A5F5?style=for-the-badge&logo=coffeescript&logoColor=white">
