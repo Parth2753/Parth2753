@@ -74,17 +74,11 @@ to build high-performance futuristic applications.
 ### ⚙ Tools & Platforms  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,figma&theme=dark" height="65"/>
 
-## 🏆 GitHub Trophies
+---
+## 🏆 GitHub Trophies 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parth2753&theme=dark&hide_border=true)](https://github.com/Parth2753)
-[![GitHub Followers](https://img.shields.io/github/followers/Parth2753?label=Followers&style=social)](https://github.com/Parth2753?tab=followers)
-[![GitHub Repo Stars](https://img.shields.io/github/stars/Parth2753?style=social)](https://github.com/Parth2753?tab=repositories)
-[![GitHub Commits](https://github-profile-trophy.vercel.app/?username=Parth2753&theme=darkhub&column=3&margin-w=10)](https://github.com/Parth2753)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/Parth2753?style=social)](https://github.com/Parth2753/pulls)
-[![GitHub Repositories](https://img.shields.io/github/repo-size/Parth2753?style=social)](https://github.com/Parth2753?tab=repositories)
-[![GitHub Issues](https://img.shields.io/github/issues/Parth2753?style=social)](https://github.com/Parth2753/issues)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/Parth2753?style=social)](https://github.com/sponsors/Parth2753)
 
+---
 
 # 🚀 Projects — *Neon Cards*
 
