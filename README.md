@@ -65,7 +65,7 @@ to build high-performance futuristic applications.
 <div align="center">
 
 ### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,c,mysql&theme=dark" height="65"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css,c&theme=dark" height="65"/>
 
 ### 🤖 AI / ML  
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,scikitlearn,aws&theme=dark" height="65"/>
