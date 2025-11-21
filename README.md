@@ -78,6 +78,8 @@ to build high-performance futuristic applications.
 ![Parth2753's Stats](https://github-readme-stats.vercel.app/api?username=Parth2753&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ---
+
+![Parth2753's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parth2753&theme=tokyonight&hide_border=true)
   
 # 🚀 Projects — *Neon Cards*
 
