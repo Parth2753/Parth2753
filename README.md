@@ -75,10 +75,10 @@ to build high-performance futuristic applications.
 
 ---
 ## 📊 Github Stats
-![Parth2753's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth2753&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Parth2753's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parth2753&theme=tokyonight&hide_border=true)
 
 ---
-![Parth2753's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parth2753&theme=tokyonight&hide_border=true)
+
   
 # 🚀 Projects — *Neon Cards*
 
@@ -119,7 +119,7 @@ to build high-performance futuristic applications.
 ### 🖥️ Top Languages
 <p align = "center"
   
-  ![Parth2753's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth2753&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+  ![Parth2753's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth2753&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
   <br>
   🤖 These are the languages I code in the most.  
   ⚡ Always learning, building, and experimenting with AI & tech!
