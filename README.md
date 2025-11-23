@@ -75,7 +75,7 @@ to build high-performance futuristic applications.
 
 ---
 ## 📊 Github Stats
-![Parth2753's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Parth2753&theme=tokyonight&hide_border=true)
+![Parth2753's Streak](https://github-readme-stats.vercel.app/api?username=Parth2753&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
