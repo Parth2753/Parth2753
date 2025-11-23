@@ -1,7 +1,7 @@
 <!-- ========= FUTURISTIC AI HERO BANNER ========= -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=36&duration=3500&pause=800&color=7F7CFFFF&center=true&vCenter=true&width=900&lines=Parth+Rohilla;Python+Decorder+•+Java+Decorder;Problem+Solver;Designing+Futuristic+AI+Systems;Welcome+To+My+AI+DashBoard;Team+Lead+Of+HexaBytes;And+LeadCoders" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=36&duration=3500&pause=800&color=7F7CFFFF&center=true&vCenter=true&width=900&lines=Parth+Rohilla;Python+Dev+•+Java+Dev;Problem+Solver;Designing+Futuristic+AI+Systems;Welcome+To+My+AI+DashBoard;Team+Lead+Of+HexaBytes;And+LeadCoders" />
 
 </div>
 
