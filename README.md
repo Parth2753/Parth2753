@@ -44,7 +44,7 @@ to build high-performance futuristic applications.
 <img src="https://img.shields.io/badge/Total%20Commits-187%20Commits-6EC6FF?style=for-the-badge&labelColor=0D1117" />
 
 <!-- Longest Streak Badge -->
-<img src="https://img.shields.io/badge/Longest%20Streak-🔥%2023%20Days-7F7CFF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Longest%20Streak-🔥%206%20Days-7F7CFF?style=for-the-badge&labelColor=0D1117" />
 
 <br><br>
 
