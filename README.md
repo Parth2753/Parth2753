@@ -65,13 +65,13 @@ to build high-performance futuristic applications.
 <div align="center">
 
 ### 💻 Languages  
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css,c&theme=dark" height="65"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" height="65"/>
 
 ### 🤖 AI / ML  
-<img src="https://skillicons.dev/icons?i=python,cpp,r,aws&theme=dark" height="65"/>
+<img src="https://skillicons.dev/icons?i=python,aws&theme=dark" height="65"/>
 
 ### ⚙ Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mongodb,react&theme=dark" height="65"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark" height="65"/>
 
 ---
 ## 📊 Github Stats
