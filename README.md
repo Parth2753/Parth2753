@@ -79,9 +79,14 @@ to build high-performance futuristic applications.
 ## 📊 Github Stats
 ![Parth2753's Stats](https://github-readme-stats.vercel.app/api?username=Parth2753&theme=dark&show_icons=true&hide_border=true&count_private=false)
 
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img style="filter: drop-shadow(0px 0px 10px orange);" 
+       src="https://github-profile-trophy.vercel.app/?username=Parth2753&theme=juicyfresh&no-frame=true&title=Commits,Repositories,Followers,Stars,PullRequest&margin-w=10&margin-h=10" />
+</div>
 ---
 
-  
 # 🚀 Projects — *Neon Cards*
 
 <div align="center" style="display:flex; flex-wrap:wrap; gap:25px; justify-content:center;">
