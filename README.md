@@ -63,6 +63,8 @@ to build high-performance futuristic applications.
 </div>
 
 <br><br>
+
+---
 # 🧠 Tech Stack — *Neon AI Grid*
 <div align="center">
 
@@ -79,13 +81,14 @@ to build high-performance futuristic applications.
 ## 📊 Github Stats
 ![Parth2753's Stats](https://github-readme-stats.vercel.app/api?username=Parth2753&theme=dark&show_icons=true&hide_border=true&count_private=false)
 
-
+---
 ## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Parth2753&theme=juicyfresh&no-frame=true&title=Commits,Repositories,Followers,Stars,PullRequest&margin-w=10&margin-h=10" style="filter: drop-shadow(0px 0px 10px orange);" />
 </div>
 
+---
 # 🚀 Projects — *Neon Cards*
 
 <div align="center" style="display:flex; flex-wrap:wrap; gap:25px; justify-content:center;">
@@ -109,7 +112,7 @@ to build high-performance futuristic applications.
 </div>
 
 </div>
-
+---
 # 🎓 Certifications — *AI Learning Platforms*
 
 <div align="center">
@@ -121,7 +124,6 @@ to build high-performance futuristic applications.
 </div>
 
 ---
-
 ### 🖥️ Top Languages
 <p align = "center"
   
@@ -131,9 +133,8 @@ to build high-performance futuristic applications.
   ⚡ Always learning, building, and experimenting with AI & tech!
 </p>
 
-
+---
 # 🔗 Connect With Me
-
 <div align="center">
 
 <a href="https://www.linkedin.com/in/parth-rohilla-b14919361/">
