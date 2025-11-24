@@ -21,9 +21,11 @@
 <!-- ========= ABOUT ME – AI GLOW PANEL ========= -->
 ## 🌐 About Me — *AI Neural Identity Panel*
 <div align="center">
-<img src="https://img.shields.io/badge/A.I%20Architect-7F7CFF?style=for-the-badge&logo=nvidia&logoColor=white">
-<img src="https://img.shields.io/badge/Java%20Developer-42A5F5? style=for-the-badge&logo=coffeescript&logoColor=white">
-<img src="https://img.shields.io/badge/Futuristic%20Coder-0D1117?style=for-the-badge">
+  <img src="https://img.shields.io/badge/A.I%20Architect-7F7CFF?style=for-the-badge&logo=nvidia&logoColor=white">
+  <img src="https://img.shields.io/badge/Java%20Developer-42A5F5?style=for-the-badge&logo=coffeescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Futuristic%20Coder-808080?style=for-the-badge">
+</div>
+
 
 <br><br>
 🔮 *Crafting intelligent systems with precision and creativity.*  
@@ -112,11 +114,10 @@ to build high-performance futuristic applications.
 </div>
 
 </div>
+
 ---
 # 🎓 Certifications — *AI Learning Platforms*
-
 <div align="center">
-
 <img src="https://img.shields.io/badge/Simplilearn-2D9CDB?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
 <img src="https://img.shields.io/badge/Coursera-0A4FCD?style=for-the-badge&logo=coursera&logoColor=white" />
