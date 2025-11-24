@@ -51,9 +51,9 @@ to build high-performance futuristic applications.
 <br><br>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth2753z&bg_color=0d1117&color=7F7CFF&line=6EC6FF&point=ffffff&area=true&hide_border=true&radius=20" width="95%" style="border-radius:20px; box-shadow:0 0 20px #42A5F5, 0 0 40px #7F7CFF;" />
-
-<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth2753&bg_color=000000&color=00aaff&line=00aaff&point=ffffff&area=true&hide_border=true" />
+</div>
 
 <!-- Date Range for Longest Streak -->
 <p style="color:#C3C8F2; font-size:16px; margin:5px 0;">
