@@ -85,7 +85,6 @@ to build high-performance futuristic applications.
   <img style="filter: drop-shadow(0px 0px 10px orange);" 
        src="https://github-profile-trophy.vercel.app/?username=Parth2753&theme=juicyfresh&no-frame=true&title=Commits,Repositories,Followers,Stars,PullRequest&margin-w=10&margin-h=10" />
 </div>
----
 
 # 🚀 Projects — *Neon Cards*
 
