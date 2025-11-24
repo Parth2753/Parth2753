@@ -11,8 +11,10 @@
 # 🎯 AIM — *My Mission Framework*
 
 ⚡ **Want to be an AI Developer and a Full Stack Developer combining AI + Java engineering to build high-performance futuristic systems.**  
-🧠 I aim to design intelligent workflows, automation systems, and clean interfaces.  
-🚀 Every project I build pushes me closer to becoming a world-class AI Engineer.
+🧠 **I aim to design intelligent workflows, automation systems, and clean interfaces.**  
+🚀 **Every project I build pushes me closer to becoming a world-class AI Engineer.**
+<br>
+🛠️ **Will start with frameworks as soon as possible.**
 
 ---
 
