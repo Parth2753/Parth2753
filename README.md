@@ -22,7 +22,7 @@
 ## 🌐 About Me — *AI Neural Identity Panel*
 <div align="center">
 <img src="https://img.shields.io/badge/A.I%20Architect-7F7CFF?style=for-the-badge&logo=nvidia&logoColor=white">
-<img src="https://img.shields.io/badge/Java%20Developer-42A5F5?style=for-the-badge&logo=coffeescript&logoColor=white">
+<img src="https://img.shields.io/badge/Java%20Developer-42A5F5? style=for-the-badge&logo=coffeescript&logoColor=white">
 <img src="https://img.shields.io/badge/Futuristic%20Coder-0D1117?style=for-the-badge">
 
 <br><br>
@@ -51,7 +51,7 @@ to build high-performance futuristic applications.
 <br><br>
 
 <!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth2753&bg_color=0d1117&color=7F7CFF&line=6EC6FF&point=ffffff&area=true&hide_border=true&radius=20" width="95%" style="border-radius:20px; box-shadow:0 0 20px #42A5F5, 0 0 40px #7F7CFF;" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth2753z&bg_color=0d1117&color=7F7CFF&line=6EC6FF&point=ffffff&area=true&hide_border=true&radius=20" width="95%" style="border-radius:20px; box-shadow:0 0 20px #42A5F5, 0 0 40px #7F7CFF;" />
 
 <br>
 
@@ -81,10 +81,10 @@ to build high-performance futuristic applications.
 
 
 ## 🏆 GitHub Trophies
-<p align="center">
-  <img style="filter: drop-shadow(0px 0px 10px orange);" 
-       src="https://github-profile-trophy.vercel.app/?username=Parth2753&theme=juicyfresh&no-frame=true&title=Commits,Repositories,Followers,Stars,PullRequest&margin-w=10&margin-h=10" />
-</p>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Parth2753&theme=juicyfresh&no-frame=true&title=Commits,Repositories,Followers,Stars,PullRequest&margin-w=10&margin-h=10" style="filter: drop-shadow(0px 0px 10px orange);" />
+</div>
 
 # 🚀 Projects — *Neon Cards*
 
