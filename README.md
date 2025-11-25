@@ -59,7 +59,7 @@ to build high-performance futuristic applications.
 
 <!-- Date Range for Longest Streak -->
 <p style="color:#C3C8F2; font-size:16px; margin:5px 0;">
-📅 From: <strong>August 10, 2025</strong> → <strong>September 2, 2025</strong>
+📅 From: <strong>Nov 5, 2025</strong> → <strong>Nov 10, 2025</strong>
 </p>
 
 </div>
