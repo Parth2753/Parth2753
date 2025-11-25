@@ -81,8 +81,7 @@ to build high-performance futuristic applications.
 
 ---
 ## 📊 Github Stats
-![Parth2753's Stats](https://github-readme-stats.vercel.app/api?username=Parth2753&theme=dark&show_icons=true&hide_border=true&count_private=false)
-
+[![Parth2753 GitHub stats](https://github-readme-stats.vercel.app/api?username=Parth2753)](https://github.com/Parth2753/github-readme-stats)
 ---
 ## 🏆 GitHub Trophies
 
