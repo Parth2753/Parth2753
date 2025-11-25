@@ -90,7 +90,7 @@ to build high-performance futuristic applications.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Parth2753&theme=onedark&no-frame=true" />
 </p>
----
+
 # 🚀 Projects — *Neon Cards*
 
 <div align="center" style="display:flex; flex-wrap:wrap; gap:25px; justify-content:center;">
