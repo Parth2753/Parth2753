@@ -80,16 +80,16 @@ to build high-performance futuristic applications.
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark" height="65"/>
 
 ---
-## 📊 Github Stats
-[![Parth2753 GitHub stats](https://github-readme-stats.vercel.app/api?username=Parth2753)](https://github.com/Parth2753/github-readme-stats)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Parth2753&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Parth2753&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth2753&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 ## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Parth2753&theme=juicyfresh&no-frame=true&title=Commits,Repositories,Followers,Stars,PullRequest&margin-w=10&margin-h=10" style="filter: drop-shadow(0px 0px 10px orange);" />
-</div>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Parth2753&theme=onedark&no-frame=true" />
+</p>
 ---
 # 🚀 Projects — *Neon Cards*
 
