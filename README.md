@@ -91,6 +91,7 @@ to build high-performance futuristic applications.
   <img src="https://github-profile-trophy.vercel.app/?username=Parth2753&theme=onedark&no-frame=true" />
 </p>
 
+---
 # 🚀 Projects — *Neon Cards*
 
 <div align="center" style="display:flex; flex-wrap:wrap; gap:25px; justify-content:center;">
@@ -125,16 +126,6 @@ to build high-performance futuristic applications.
 </div>
 
 ---
-### 🖥️ Top Languages
-<p align = "center"
-  
-  ![Parth2753's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth2753&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-  <br>
-  🤖 These are the languages I code in the most.  
-  ⚡ Always learning, building, and experimenting with AI & tech!
-</p>
-
----
 # 🔗 Connect With Me
 <div align="center">
 
@@ -153,9 +144,8 @@ to build high-performance futuristic applications.
 </div>
 
 ---
-
 <div align="center">
-
+  
 ### ✨ *“Code is logic. AI is imagination. Together, they build the future.”*  
 ### 🚀 Make sure to follow me on GitHub for more exciting projects coming soon!
 
