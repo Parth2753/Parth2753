@@ -105,7 +105,7 @@ to build high-performance futuristic applications.**
 <!-- Project Card 2 -->
 <div style="background: linear-gradient(135deg, #6EC6FF, #42A5F5); padding:20px; border-radius:20px; width:280px; box-shadow:0 0 20px #6EC6FF, 0 0 40px #42A5F5;">
 <h3 align="center">⚙ Java Calculator</h3>
-<p align="center" style="color:white;">Clean, fast, and functional Java-based calculator built from scratch.</p>
+<p align="center" style="color:white;"># Clean, fast, and functional Java-based calculator built from scratch.</p>
 </div>
 
 <!-- Project Card 3 -->
