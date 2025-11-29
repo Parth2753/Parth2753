@@ -28,11 +28,11 @@
 
 
 <br><br>
-🔮 *Crafting intelligent systems with precision and creativity.*  
-🚀 I combine **AI**, **Java Engineering**, and **problem-solving**  
-to build high-performance futuristic applications.  
-🧠 Exploring **machine learning**, **automation**, and **AI workflows**.  
-🎯 Passionate about aesthetics, clean code & modern UI/UX in tech.
+🔮 **Crafting intelligent systems with precision and creativity.** 
+🚀 **I combine **AI**, **Java Engineering**, and **problem-solving**  
+to build high-performance futuristic applications.**  
+🧠 **Exploring** **machine learning**, **automation**, **and** **AI workflows**.  
+🎯 **Passionate about aesthetics, clean code & modern UI/UX in tech.**
 
 </div>
 
