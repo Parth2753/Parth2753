@@ -45,7 +45,7 @@ to build high-performance futuristic applications.**
 <div align="center" style="background: linear-gradient(135deg, #0D1117, #1A1F2B); padding: 25px; border-radius: 20px; box-shadow: 0 0 30px #42A5F5, 0 0 60px #7F7CFF; width: fit-content; margin:auto;">
 
 <!-- Total Commits Badge -->
-<img src="https://img.shields.io/badge/Total%20Commits-288%20Commits-6EC6FF?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Total%20Commits-302%20Commits-6EC6FF?style=for-the-badge&labelColor=0D1117" />
 
 <!-- Longest Streak Badge -->
 <img src="https://img.shields.io/badge/Longest%20Streak-🔥%206%20Days-7F7CFF?style=for-the-badge&labelColor=0D1117" />
