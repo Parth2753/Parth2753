@@ -86,12 +86,7 @@ to build high-performance futuristic applications.**
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth2753&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Parth2753&theme=onedark&no-frame=true" />
-</p>
 
----
 # 🚀 Projects — *Neon Cards*
 
 <div align="center" style="display:flex; flex-wrap:wrap; gap:25px; justify-content:center;">
