@@ -79,6 +79,9 @@ to build high-performance futuristic applications.**
 ### ⚙ Tools & Platforms  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark" height="65"/>
 
+### 💻 Currently Learning
+<img src="https://skillicons.dev/icons?i=linux,vercel,netlify&theme=dark" height="65"/>
+
 ---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Parth2753&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
