@@ -77,10 +77,10 @@ to build high-performance futuristic applications.**
 <img src="https://skillicons.dev/icons?i=python,aws&theme=dark" height="65"/>
 
 ### ⚙ Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse&theme=dark" height="65"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,vercel&theme=dark" height="65"/>
 
 ### 💻 Currently Learning
-<img src="https://skillicons.dev/icons?i=linux,vercel,netlify&theme=dark" height="65"/>
+<img src="https://skillicons.dev/icons?i=linux,netlify&theme=dark" height="65"/>
 
 ---
 # 📊 GitHub Stats:
