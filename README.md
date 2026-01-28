@@ -80,7 +80,7 @@ to build high-performance futuristic applications.**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,vercel,linux&theme=dark" height="65"/>
 
 ### 💻 Currently Learning
-<img src="https://skillicons.dev/icons?i=netlify&theme=dark" height="65"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp&theme=dark" height="65"/>
 
 ---
 # 📊 GitHub Stats:
