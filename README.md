@@ -15,6 +15,8 @@
 🚀 **Every project I build pushes me closer to becoming a world-class AI Engineer.**
 <br>
 🛠️ **Will start with frameworks as soon as possible.**
+<br>
+💻 **Started wtih Python frameworks**
 
 ---
 
