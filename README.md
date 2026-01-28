@@ -16,7 +16,7 @@
 <br>
 🛠️ **Will start with frameworks as soon as possible.**
 <br>
-💻 **Started wtih Python frameworks**
+💻 **Started wtih Python frameworks.**
 
 ---
 
