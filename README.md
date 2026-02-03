@@ -38,7 +38,50 @@ to build high-performance futuristic applications.**
 
 </div>
 
----
+# 🧑🏻‍💻*Coding Platforms*
+<p align="center">
+
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/05ER758tb8/" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png"
+           alt="LeetCode"
+           width="45"/>
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- HackerRank -->
+  <a href="https://www.hackerrank.com/profile/parth_rohilla08" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/hackerrank.svg">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png"
+           alt="HackerRank"
+           width="45"/>
+    </picture>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <!-- GeeksforGeeks -->
+  <a href="https://www.geeksforgeeks.org/profile/parthrohilla" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)"
+              srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
+           alt="GeeksforGeeks"
+           width="45"/>
+    </picture>
+  </a>
+
+</p>
+
+<p align="center">
+  <b>LeetCode</b> • <b>HackerRank</b> • <b>GeeksforGeeks</b>
+</p>
+
 
 # ⚡ AI Futuristic Dashboard — *Glowing Metrics Panel*
 
