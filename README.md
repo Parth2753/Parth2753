@@ -14,7 +14,7 @@
 🧠 **I aim to design intelligent workflows, automation systems, and clean interfaces.**  
 🚀 **Every project I build pushes me closer to becoming a world-class AI Engineer.**
 <br>
-🛠️ **Will start with frameworks as soon as possible.**
+🛠️ **Will start with frameworks as soon as possible(Frontend and Backend).**
 <br>
 💻 **Started wtih Python frameworks.**
 
