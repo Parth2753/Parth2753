@@ -176,7 +176,7 @@ I want to become an AI developer, while also growing as a full stack developer.
 ---
 <div align="center">
   
-###  *Trying to stay consistent and improve every day.*  
-###  Make sure to follow me on GitHub for more exciting projects coming soon!
+###  ⚡*Trying to stay consistent and improve every day.*  
+###  ❤️ Make sure to follow me on GitHub for more exciting projects coming soon!
 
 </div>
