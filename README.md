@@ -1,44 +1,37 @@
-<!-- ========= FUTURISTIC AI HERO BANNER ========= -->
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=36&duration=3500&pause=800&color=7F7CFFFF&center=true&vCenter=true&width=900&lines=Parth+Rohilla;Python+Dev+•+Java+Dev;Problem+Solver;Designing+Futuristic+AI+Systems;Welcome+To+My+AI+DashBoard;Team+Lead+Of+HexaBytes;AIML+Developer" />
-
+<img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=36&duration=3500&pause=800&color=7F7CFFFF&center=true&vCenter=true&width=900&lines=Parth+Rohilla;Java+%26+Python+Developer;Problem+Solver;Learning+ML+and+building+AI+projects" />
 </div>
 
 <br>
 
-<!-- ========= AIM SECTION ========= -->
-# 🎯 AIM — *My Mission Framework*
+ ## Working On
+I’m currently learning AI and backend development.
+I want to become an AI developer, while also growing as a full stack developer.
 
-⚡ **Want to be an AI Developer and a Full Stack Developer combining AI + Java engineering to build high-performance futuristic systems.**  
-🧠 **I aim to design intelligent workflows, automation systems, and clean interfaces.**  
-🚀 **Every project I build pushes me closer to becoming a world-class AI Engineer.**
-<br>
-🛠️ **Will start with frameworks as soon as possible(Frontend and Backend).**
-<br>
-💻 **Started wtih Python frameworks.**
+Right now I’m focusing on:
+- solving DSA problems regularly on LeetCode
+- building projects like a Java calculator and ML-based classifiers
+- exploring backend development and basic ML libraries
 
+ ## right now
+- solving leetcode (trying consistency)
+- learning backend slowly
+- ML basics (kinda confusing)
 ---
 
-<!-- ========= ABOUT ME – AI GLOW PANEL ========= -->
-## 🌐 About Me — *AI Neural Identity Panel*
+##  About Me
 <div align="center">
-  <img src="https://img.shields.io/badge/A.I%20Architect-7F7CFF?style=for-the-badge&logo=nvidia&logoColor=white">
   <img src="https://img.shields.io/badge/Java%20Developer-42A5F5?style=for-the-badge&logo=coffeescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Futuristic%20Coder-808080?style=for-the-badge">
+   <img src="https://img.shields.io/badge/Python%20Developer-42A5F5?style=for-the-badge&logo=coffeescript&logoColor=white">
 </div>
+<br>
 
+I like building small projects and improving my coding skills.
+I work with Java and Python, and I’m exploring AI concepts while building projects.
+trying to learn ML, still figuring things out
+i like simple code, hate overcomplicated stuff
 
-<br><br>
-🔮 **Crafting intelligent systems with precision and creativity.** 
-🚀 **I combine **AI**, **Java Engineering**, and **problem-solving**  
-to build high-performance futuristic applications.**  
-🧠 **Exploring** **machine learning**, **automation**, **and** **AI workflows**.  
-🎯 **Passionate about aesthetics, clean code & modern UI/UX in tech.**
-
-</div>
-
-# 🧑🏻‍💻*Coding Platforms*
+# *Coding Platforms*
 <p align="center">
 
   <!-- LeetCode -->
@@ -83,18 +76,13 @@ to build high-performance futuristic applications.**
 </p>
 
 
-# ⚡ AI Futuristic Dashboard — *Glowing Metrics Panel*
-
+## GitHub Activity
 <div align="center">
 
 <div align="center" style="background: linear-gradient(135deg, #0D1117, #1A1F2B); padding: 25px; border-radius: 20px; box-shadow: 0 0 30px #42A5F5, 0 0 60px #7F7CFF; width: fit-content; margin:auto;">
 
 <!-- Total Commits Badge -->
 <img src="https://img.shields.io/badge/Total%20Commits-355%20Commits-6EC6FF?style=for-the-badge&labelColor=0D1117" />
-
-<!-- Longest Streak Badge -->
-<img src="https://img.shields.io/badge/Longest%20Streak-🔥%206%20Days-7F7CFF?style=for-the-badge&labelColor=0D1117" />
-
 <br><br>
 
 <!-- Contribution Graph -->
@@ -102,65 +90,59 @@ to build high-performance futuristic applications.**
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth2753&bg_color=000000&color=00aaff&line=00aaff&point=ffffff&area=true&hide_border=true" />
 </div>
 
-<!-- Date Range for Longest Streak -->
-<p style="color:#C3C8F2; font-size:16px; margin:5px 0;">
-📅 From: <strong>Nov 5, 2025</strong> → <strong>Nov 10, 2025</strong>
-</p>
-
-</div>
-
 <br><br>
 
 ---
-# 🧠 Tech Stack — *Neon AI Grid*
+#  Tech Stack 
 <div align="center">
 
-### 💻 Languages  
+###  Languages  
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" height="65"/>
 
-### 🤖 AI / ML  
+###  AI / ML  
 <img src="https://skillicons.dev/icons?i=python,aws&theme=dark" height="65"/>
 
-### ⚙ Tools & Platforms  
+###  Tools & Platforms  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,vercel,linux,netlify&theme=dark" height="65"/>
 
-### 💻 Currently Learning
+###  Currently Learning
 <img src="https://skillicons.dev/icons?i=java,python,cpp&theme=dark" height="65"/>
 
 ---
-# 📊 GitHub Stats:
+#  GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Parth2753&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Parth2753&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth2753&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-# 🚀 Projects — *Neon Cards*
+#  Projects 
 
-<div align="center" style="display:flex; flex-wrap:wrap; gap:25px; justify-content:center;">
+<div align="center" style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
 
-<!-- Project Card 1 -->
-<div style="background: linear-gradient(135deg, #42A5F5, #7F7CFF); padding:20px; border-radius:20px; width:280px; box-shadow:0 0 20px #42A5F5, 0 0 40px #7F7CFF;">
-<h3 align="center">🔮 AI Construction Waste Management</h3>
-<p align="center" style="color:white;">Predictive AI system to classify & automate construction waste handling efficiently.</p>
+<div style="border:1px solid #7F7CFF; padding:15px; border-radius:12px; width:260px;">
+<h3>Java Calculator</h3>
+<p>built using java, handles basic operations and input logic. helped me understand core java concepts.</p>
+<a href = "https://github.com/Parth2753/Java-Calculator">Java Calculator </a>
 </div>
 
-<!-- Project Card 2 -->
-<div style="background: linear-gradient(135deg, #6EC6FF, #42A5F5); padding:20px; border-radius:20px; width:280px; box-shadow:0 0 20px #6EC6FF, 0 0 40px #42A5F5;">
-<h3 align="center">⚙ Java Calculator</h3>
-<p align="center" style="color:white;"># Clean, fast, and functional Java-based calculator built from scratch.</p>
+<div style="border:1px solid #42A5F5; padding:15px; border-radius:12px; width:260px;">
+<h3>AI Construction Waste Management</h3>
+<p>tried using ML to classify construction waste. learned basics of data handling and model training.</p>
+</div>
+<a href = "https://github.com/Parth2753/AI-Construction-Waste-Management">Waste Management</a>
+
+<div style="border:1px solid #6EC6FF; padding:15px; border-radius:12px; width:260px;">
+<h3>Resume Builder</h3>
+<p>built a simple AI-based resume generator. still improving features and UI.</p>
+<a href = "https://github.com/Parth2753/AI-Resume-Builder"> AI Resume Builder </a>
 </div>
 
-<!-- Project Card 3 -->
-<div style="background: linear-gradient(135deg, #7F7CFF, #42A5F5); padding:20px; border-radius:20px; width:280px; box-shadow:0 0 20px #7F7CFF, 0 0 40px #42A5F5;">
-<h3 align="center">🤖 AI Resume Builder</h3>
-<p align="center" style="color:white;">AI-powered resume generator that designs professional resumes using custom templates and NLP-based suggestions.</p>
 </div>
-
 </div>
 
 ---
-# 🎓 Certifications — *AI Learning Platforms*
+#  Certifications — *AI Learning Platforms*
 <div align="center">
 <img src="https://img.shields.io/badge/Simplilearn-2D9CDB?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
@@ -169,7 +151,7 @@ to build high-performance futuristic applications.**
 </div>
 
 ---
-# 🔗 Connect With Me
+#  Connect With Me
 <div align="center">
 
 <a href="https://www.linkedin.com/in/parth-rohilla-b14919361/">
@@ -189,7 +171,7 @@ to build high-performance futuristic applications.**
 ---
 <div align="center">
   
-### ✨ *“Code is logic. AI is imagination. Together, they build the future.”*  
-### 🚀 Make sure to follow me on GitHub for more exciting projects coming soon!
+###  *Trying to stay consistent and improve every day.*  
+###  Make sure to follow me on GitHub for more exciting projects coming soon!
 
 </div>
