@@ -1,6 +1,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=36&duration=3500&pause=800&color=7F7CFFFF&center=true&vCenter=true&width=900&lines=Parth+Rohilla;Java+%26+Python+Developer;Problem+Solver;Learning+ML+and+building+AI+projects" />
 </div>
+
 ## 🧑🏻‍💻 Working On
 I’m currently learning AI and backend development.
 <br>
@@ -24,14 +25,15 @@ I want to become an AI developer, while also growing as a full stack developer.
    <img src="https://img.shields.io/badge/Python%20Developer-42A5F5?style=for-the-badge&logo=coffeescript&logoColor=white">
 </div>
 <br>
+<big> - I like building small projects and improving my coding skills.</big>
+<br>
+<big> - I work with Java and Python, and I’m exploring AI concepts while building projects.</big>
+<br>
+<big> - Learning  about Machine Learning </big>
+<br>
+<big> - i like simple code, hate overcomplicated stuff.</big>
 
-<big> I like building small projects and improving my coding skills.</big>
-<br>
-<big> I work with Java and Python, and I’m exploring AI concepts while building projects.</big>
-<br>
-<big> Learning Machine Learning </big>
-<br>
-<big> i like simple code, hate overcomplicated stuff.</big>
+---
 
 # ☕ *Coding Platforms*
 <p align="center">
