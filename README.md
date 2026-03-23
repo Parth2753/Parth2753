@@ -2,34 +2,36 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=36&duration=3500&pause=800&color=7F7CFFFF&center=true&vCenter=true&width=900&lines=Parth+Rohilla;Java+%26+Python+Developer;Problem+Solver;Learning+ML+and+building+AI+projects" />
 </div>
 
-## Working On
+## 🧑🏻‍💻 Working On
 I’m currently learning AI and backend development.
+<br>
 I want to become an AI developer, while also growing as a full stack developer.
+<hr>
 
-Right now I’m focusing on:
+ ## 💻 Right now I’m focusing on:
 - solving DSA problems regularly on LeetCode
 - building projects like a Java calculator and ML-based classifiers
 - exploring backend development and basic ML libraries
 
- ## Right now
+ ## 🎯 Right now
 - solving leetcode (trying consistency)
 - learning backend slowly
 - ML basics (kinda confusing)
 ---
 
-##  About Me
+##  🌐 About Me
 <div align="center">
   <img src="https://img.shields.io/badge/Java%20Developer-42A5F5?style=for-the-badge&logo=coffeescript&logoColor=white">
    <img src="https://img.shields.io/badge/Python%20Developer-42A5F5?style=for-the-badge&logo=coffeescript&logoColor=white">
 </div>
 <br>
 
-I like building small projects and improving my coding skills.
-I work with Java and Python, and I’m exploring AI concepts while building projects.
-trying to learn ML, still figuring things out
-i like simple code, hate overcomplicated stuff
+> I like building small projects and improving my coding skills.
+> I work with Java and Python, and I’m exploring AI concepts while building projects.
+> trying to learn ML, still figuring things out
+> i like simple code, hate overcomplicated stuff
 
-# *Coding Platforms*
+# ☕ *Coding Platforms*
 <p align="center">
 
   <!-- LeetCode -->
@@ -91,19 +93,19 @@ i like simple code, hate overcomplicated stuff
 <br><br>
 
 ---
-#  Tech Stack 
+#  📊 Tech Stack 
 <div align="center">
 
-###  Languages  
+###  🌍 Languages  
 <img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" height="65"/>
 
-###  AI / ML  
+###  🤖 AI / ML  
 <img src="https://skillicons.dev/icons?i=python,aws&theme=dark" height="65"/>
 
-###  Tools & Platforms  
+###  ⚙️ Tools & Platforms  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,vercel,linux,netlify&theme=dark" height="65"/>
 
-###  Currently Learning
+###  ✋🏻 Currently Learning
 <img src="https://skillicons.dev/icons?i=java,python,cpp&theme=dark" height="65"/>
 
 ---
@@ -114,24 +116,23 @@ i like simple code, hate overcomplicated stuff
 
 ---
 
-#  Projects 
+#  📄 Projects 
 
 <div align="center" style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
 
 <div style="border:1px solid #7F7CFF; padding:15px; border-radius:12px; width:260px;">
-<h3>Java Calculator</h3>
+<h3><u> 📱Java Calculator</u></h3>
 <p>built using java, handles basic operations and input logic. helped me understand core java concepts.</p>
 <a href = "https://github.com/Parth2753/Java-Calculator"target = "_main">Java Calculator </a>
 </div>
 
 <div style="border:1px solid #42A5F5; padding:15px; border-radius:12px; width:260px;">
-<h3>AI Construction Waste Management</h3>
+<h3><u> 🤖 AI Construction Waste Management</u></h3>
 <p>tried using ML to classify construction waste. learned basics of data handling and model training.</p>
 </div>
 <a href = "https://github.com/Parth2753/AI-Construction-Waste-Management" target = "_main">Waste Management</a>
-
 <div style="border:1px solid #6EC6FF; padding:15px; border-radius:12px; width:260px;">
-<h3>Resume Builder</h3>
+<h3><u> 📃 Resume Builder</u></h3>
 <p>built a simple AI-based resume generator. still improving features and UI.</p>
 <a href = "https://github.com/Parth2753/AI-Resume-Builder"target = "_main"> AI Resume Builder </a>
 </div>
@@ -140,7 +141,7 @@ i like simple code, hate overcomplicated stuff
 </div>
 
 ---
-#  Certifications — *AI Learning Platforms*
+#  🎓 Certifications — *AI Learning Platforms*
 <div align="center">
 <img src="https://img.shields.io/badge/Simplilearn-2D9CDB?style=for-the-badge&logo=googlecloud&logoColor=white" />
 <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
@@ -149,7 +150,7 @@ i like simple code, hate overcomplicated stuff
 </div>
 
 ---
-#  Connect With Me
+#  👍 Connect With Me
 <div align="center">
 
 <a href="https://www.linkedin.com/in/parth-rohilla-b14919361/">
