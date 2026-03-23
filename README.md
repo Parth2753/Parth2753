@@ -1,9 +1,8 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=36&duration=3500&pause=800&color=7F7CFFFF&center=true&vCenter=true&width=900&lines=Parth+Rohilla;Java+%26+Python+Developer;Problem+Solver;Learning+ML+and+building+AI+projects" />
 </div>
-<br>
-<b>Working On</b>
-<br>
+
+## Working On
 I’m currently learning AI and backend development.
 I want to become an AI developer, while also growing as a full stack developer.
 
@@ -12,7 +11,7 @@ Right now I’m focusing on:
 - building projects like a Java calculator and ML-based classifiers
 - exploring backend development and basic ML libraries
 
- ## right now
+ ## Right now
 - solving leetcode (trying consistency)
 - learning backend slowly
 - ML basics (kinda confusing)
