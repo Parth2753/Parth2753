@@ -1,7 +1,6 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=36&duration=3500&pause=800&color=7F7CFFFF&center=true&vCenter=true&width=900&lines=Parth+Rohilla;Java+%26+Python+Developer;Problem+Solver;Learning+ML+and+building+AI+projects" />
 </div>
-
 ## 🧑🏻‍💻 Working On
 I’m currently learning AI and backend development.
 <br>
@@ -16,7 +15,7 @@ I want to become an AI developer, while also growing as a full stack developer.
  ## 🎯 Right now
 - solving leetcode (trying consistency)
 - learning backend slowly
-- ML basics (kinda confusing)
+- ML basics (currently learning the basics of it)
 ---
 
 ##  🌐 About Me
@@ -26,10 +25,13 @@ I want to become an AI developer, while also growing as a full stack developer.
 </div>
 <br>
 
-> I like building small projects and improving my coding skills.
-> I work with Java and Python, and I’m exploring AI concepts while building projects.
-> trying to learn ML, still figuring things out
-> i like simple code, hate overcomplicated stuff
+<big> I like building small projects and improving my coding skills.</big>
+<br>
+<big> I work with Java and Python, and I’m exploring AI concepts while building projects.</big>
+<br>
+<big> Learning Machine Learning </big>
+<br>
+<big> i like simple code, hate overcomplicated stuff.</big>
 
 # ☕ *Coding Platforms*
 <p align="center">
@@ -109,7 +111,7 @@ I want to become an AI developer, while also growing as a full stack developer.
 <img src="https://skillicons.dev/icons?i=java,python,cpp&theme=dark" height="65"/>
 
 ---
-#  GitHub Stats:
+#  📈 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Parth2753&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Parth2753&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth2753&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -117,7 +119,6 @@ I want to become an AI developer, while also growing as a full stack developer.
 ---
 
 #  📄 Projects 
-
 <div align="center" style="display:flex; flex-wrap:wrap; gap:15px; justify-content:center;">
 
 <div style="border:1px solid #7F7CFF; padding:15px; border-radius:12px; width:260px;">
@@ -126,12 +127,15 @@ I want to become an AI developer, while also growing as a full stack developer.
 <a href = "https://github.com/Parth2753/Java-Calculator"target = "_main">Java Calculator </a>
 </div>
 
+---
 <div style="border:1px solid #42A5F5; padding:15px; border-radius:12px; width:260px;">
 <h3><u> 🤖 AI Construction Waste Management</u></h3>
 <p>tried using ML to classify construction waste. learned basics of data handling and model training.</p>
 </div>
-<a href = "https://github.com/Parth2753/AI-Construction-Waste-Management" target = "_main">Waste Management</a>
+<a href = "https://github.com/Parth2753/AI-Construction-Waste-Management" target = "_main">AI Waste Management</a>
 <div style="border:1px solid #6EC6FF; padding:15px; border-radius:12px; width:260px;">
+ 
+---
 <h3><u> 📃 Resume Builder</u></h3>
 <p>built a simple AI-based resume generator. still improving features and UI.</p>
 <a href = "https://github.com/Parth2753/AI-Resume-Builder"target = "_main"> AI Resume Builder </a>
