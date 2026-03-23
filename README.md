@@ -76,7 +76,7 @@ I want to become an AI developer, while also growing as a full stack developer.
 </p>
 
 
-## GitHub Activity
+## 📊 GitHub Activity
 <div align="center">
 
 <div align="center" style="background: linear-gradient(135deg, #0D1117, #1A1F2B); padding: 25px; border-radius: 20px; box-shadow: 0 0 30px #42A5F5, 0 0 60px #7F7CFF; width: fit-content; margin:auto;">
