@@ -2,7 +2,8 @@
 <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=36&duration=3500&pause=800&color=7F7CFFFF&center=true&vCenter=true&width=900&lines=Parth+Rohilla;Java+%26+Python+Developer;Problem+Solver;Learning+ML+and+building+AI+projects" />
 </div>
 <br>
- ## Working On
+<b>Working On</b>
+<br>
 I’m currently learning AI and backend development.
 I want to become an AI developer, while also growing as a full stack developer.
 
