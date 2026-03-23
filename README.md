@@ -1,9 +1,7 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=36&duration=3500&pause=800&color=7F7CFFFF&center=true&vCenter=true&width=900&lines=Parth+Rohilla;Java+%26+Python+Developer;Problem+Solver;Learning+ML+and+building+AI+projects" />
 </div>
-
 <br>
-
  ## Working On
 I’m currently learning AI and backend development.
 I want to become an AI developer, while also growing as a full stack developer.
@@ -123,19 +121,19 @@ i like simple code, hate overcomplicated stuff
 <div style="border:1px solid #7F7CFF; padding:15px; border-radius:12px; width:260px;">
 <h3>Java Calculator</h3>
 <p>built using java, handles basic operations and input logic. helped me understand core java concepts.</p>
-<a href = "https://github.com/Parth2753/Java-Calculator">Java Calculator </a>
+<a href = "https://github.com/Parth2753/Java-Calculator"target = "_main">Java Calculator </a>
 </div>
 
 <div style="border:1px solid #42A5F5; padding:15px; border-radius:12px; width:260px;">
 <h3>AI Construction Waste Management</h3>
 <p>tried using ML to classify construction waste. learned basics of data handling and model training.</p>
 </div>
-<a href = "https://github.com/Parth2753/AI-Construction-Waste-Management">Waste Management</a>
+<a href = "https://github.com/Parth2753/AI-Construction-Waste-Management" target = "_main">Waste Management</a>
 
 <div style="border:1px solid #6EC6FF; padding:15px; border-radius:12px; width:260px;">
 <h3>Resume Builder</h3>
 <p>built a simple AI-based resume generator. still improving features and UI.</p>
-<a href = "https://github.com/Parth2753/AI-Resume-Builder"> AI Resume Builder </a>
+<a href = "https://github.com/Parth2753/AI-Resume-Builder"target = "_main"> AI Resume Builder </a>
 </div>
 
 </div>
