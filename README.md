@@ -38,7 +38,7 @@ I’m currently learning AI and backend development,browsing other domains relat
 <p align="center">
 
   <!-- LeetCode -->
-  <a href="https://leetcode.com/u/05ER758tb8/" target="_blank">
+  <a href="https://leetcode.com/u/Parth_Rohilla/" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)"
               srcset="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg">
