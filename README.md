@@ -3,9 +3,8 @@
 </div>
 
 ## 🧑🏻‍💻 Working On
-I’m currently learning AI and backend development.
+I’m currently learning AI and backend development,browsing other domains related to AI
 <br>
-I want to become an AI developer, while also growing as a full stack developer.
 <hr>
 
  ## 💻 Right now I’m focusing on:
