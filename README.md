@@ -7,12 +7,7 @@ I’m currently learning AI and backend development,browsing other domains relat
 <br>
 <hr>
 
- ## 💻 Right now I’m focusing on:
-- solving DSA problems regularly on LeetCode
-- building projects like a Java calculator and ML-based classifiers
-- exploring backend development and basic ML libraries
-
- ## 🎯 Right now
+ ## 🎯 Focusing now
 - solving leetcode (trying consistency)
 - learning backend slowly
 - ML basics (currently learning the basics of it)
@@ -104,7 +99,7 @@ I’m currently learning AI and backend development,browsing other domains relat
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,vercel,linux,netlify&theme=dark" height="65"/>
 
 ###  ✋🏻 Currently Learning
-<img src="https://skillicons.dev/icons?i=java,python,cpp&theme=dark" height="65"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,nodejs&theme=dark" height="65"/>
 
 ---
 
