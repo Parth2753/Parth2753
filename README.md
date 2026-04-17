@@ -96,7 +96,7 @@ I’m currently learning AI and backend development,browsing other domains relat
 <img src="https://skillicons.dev/icons?i=python,aws&theme=dark" height="65"/>
 
 ###  ⚙️ Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,vercel,linux,netlify&theme=dark" height="65"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,vercel,netlify&theme=dark" height="65"/>
 
 ###  ✋🏻 Currently Learning
 <img src="https://skillicons.dev/icons?i=java,python,cpp,nodejs&theme=dark" height="65"/>
