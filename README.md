@@ -37,7 +37,7 @@
 
 ### Web
 
-<img src="https://skillicons.dev/icons?i=html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,jss&theme=dark" />
 
 ### Tools & Platforms
 
