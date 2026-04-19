@@ -14,7 +14,7 @@
 ## 🎯 Current Focus
 
 🔷 Data Structures & Algorithms (consistency)<br>
-🔷 Backend Development<br>
+🔷 Frontend Development<br>
 🔷 Machine Learning Fundamentals<br>
 
 ---
