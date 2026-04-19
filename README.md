@@ -33,7 +33,7 @@
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=java,python,html&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
 
 ### Web
 
