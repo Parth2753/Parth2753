@@ -15,13 +15,13 @@
 
 🔷 Data Structures & Algorithms (consistency)<br>
 🔷 Frontend Development<br>
-🔷 Machine Learning Fundamentals<br>
+🔷 Artificial and Machine Learning Fundamentals<br>
 
 ---
 
 ## 🧠 Currently Learning
 
-🔷 Agentic AI (learning the functionality)<br>
+🔷 Learning AIML and focusing on academics core subjects<br>
 🔷 Exploring various domains in AI/ML<br>
 🔷 Improving consistency on coding platforms<br>
 
