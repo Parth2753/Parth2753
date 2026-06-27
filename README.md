@@ -99,10 +99,6 @@ AI-based resume generator (ongoing improvements)
 
 <p align="center">
 
-<a href="https://leetcode.com/u/Parth_Rohilla/">
-  <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
 <a href="https://www.geeksforgeeks.org/profile/parthrohilla">
   <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
