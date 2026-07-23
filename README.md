@@ -4,7 +4,7 @@
 
 # Hi, I'm Parth 👋
 
-🔷 💻 Java & Python Developer<br>
+🔷 💻 Java & Python Programmer<br>
 🔷 🚀 Focused on Data Structures, Backend Development, and AI-based Projects<br>
 🔷 ⚡ I enjoy building simple, practical solutions to real problems<br>
 🔷 🧠 Solving problems on LeetCode, CodeChef, GeeksforGeeks, and HackerRank<br>
